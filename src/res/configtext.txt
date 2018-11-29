@@ -1,0 +1,5 @@
+driverClass=com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbcUrl = jdbc:sqlserver://localhost:1433;DatabaseName=houqin
+user = sa
+password = 123456aa
+devMode = true
